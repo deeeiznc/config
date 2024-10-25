@@ -98,6 +98,9 @@
         "auto",
         "direct",
         "{all}"
+      ],
+      "filter":[
+        {"action":"exclude","keywords":["0.40|3.00"]}
       ]
     },
     {
