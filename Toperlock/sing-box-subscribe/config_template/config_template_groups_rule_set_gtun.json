@@ -100,7 +100,7 @@
         "{all}"
       ],
       "filter":[
-        {"action":"exclude","keywords":["0.40|3.00"]}
+        {"action":"exclude","keywords":["Traffic|Expire"]}
       ]
     },
     {
@@ -317,7 +317,7 @@
       ],
       "filter":[
         {"action":"include","keywords":["🇭🇰|HK|hk|香港|港|HongKong"]},
-        {"action":"exclude","keywords":["0.40|3.00|标准｜高级"]}
+        {"action":"exclude","keywords":["Traffic|Expire"]}
       ]
     },
     {
@@ -328,7 +328,7 @@
       ],
       "filter":[
         {"action":"include","keywords":["🇹🇼|TW|tw|台湾|臺灣|台|Taiwan"]},
-        {"action":"exclude","keywords":["0.40|3.00|标准｜高级"]}
+        {"action":"exclude","keywords":["Traffic|Expire"]}
       ]
     },
     {
@@ -339,7 +339,7 @@
       ],
       "filter":[
         {"action":"include","keywords":["🇸🇬|SG|sg|新加坡|狮|Singapore"]},
-        {"action":"exclude","keywords":["0.40|3.00|标准｜高级"]}
+        {"action":"exclude","keywords":["Traffic|Expire"]}
       ]
     },
     {
@@ -350,7 +350,7 @@
       ],
       "filter":[
         {"action":"include","keywords":["🇯🇵|JP|jp|日本|日|Japan"]},
-        {"action":"exclude","keywords":["0.40|3.00|标准｜高级"]}
+        {"action":"exclude","keywords":["Traffic|Expire"]}
       ]
     },
     {
@@ -361,7 +361,7 @@
       ],
       "filter":[
         {"action":"include","keywords":["🇺🇸|US|us|美国|美|United States"]},
-        {"action":"exclude","keywords":["0.40|3.00|标准｜高级"]}
+        {"action":"exclude","keywords":["Traffic|Expire"]}
       ]
     },
     {
@@ -371,7 +371,7 @@
         "{all}"
       ],
       "filter":[
-        {"action":"exclude","keywords":["🇭🇰|HK|hk|香港|香|🇹🇼|TW|tw|台湾|台|🇸🇬|SG|sg|新加坡|狮|🇯🇵|JP|jp|日本|日|🇺🇸|US|us|美国|美|0.40|3.00|标准｜高级"]}
+        {"action":"exclude","keywords":["🇭🇰|HK|hk|香港|香|🇹🇼|TW|tw|台湾|台|🇸🇬|SG|sg|新加坡|狮|🇯🇵|JP|jp|日本|日|🇺🇸|US|us|美国|美|Traffic|Expire"]}
       ]
     },
     {
@@ -381,7 +381,7 @@
         "{all}"
       ],
       "filter":[
-        {"action":"exclude","keywords":["网站|地址|剩余|过期|时间|有效|0.40|3.00|标准｜高级"]}
+        {"action":"exclude","keywords":["网站|地址|剩余|过期|时间|有效|Traffic|Expire"]}
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
