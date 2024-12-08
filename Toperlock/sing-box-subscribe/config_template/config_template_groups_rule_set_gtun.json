@@ -286,7 +286,8 @@
     {
       "tag":"Global",
       "type":"selector",
-      "outbounds":[ 
+      "outbounds":[
+        "auto",
         "HongKong",
         "TaiWan",
         "Singapore",
