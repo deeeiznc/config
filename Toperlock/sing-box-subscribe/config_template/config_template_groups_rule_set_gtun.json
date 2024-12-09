@@ -299,6 +299,7 @@
       "type":"selector",
       "outbounds":[
         "auto",
+        "Home broadband",
         "HongKong",
         "TaiWan",
         "Singapore",
