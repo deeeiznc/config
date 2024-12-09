@@ -291,7 +291,7 @@
         "{all}"
       ],
       "filter":[
-        {"action":"include","keywords":["Home"]}
+        {"action":"include","keywords":["Home|HOME"]}
       ]
     },
     {
