@@ -1,1 +1,16 @@
-
+proxies:
+  - {"name":"🇭🇰 香港 01","type":"ss","server":"42.157.129.206","port":10700,"cipher":"aes-256-gcm","password":"005825c6-66e7-4782-828b-7732e619f8c5","udp":true}
+  - {"name":"🇭🇰 香港 02","type":"ss","server":"42.157.129.206","port":10701,"cipher":"aes-256-gcm","password":"005825c6-66e7-4782-828b-7732e619f8c5","udp":true}
+  - {"name":"🇭🇰 香港 03","type":"ss","server":"42.157.129.206","port":10710,"cipher":"aes-256-gcm","password":"005825c6-66e7-4782-828b-7732e619f8c5","udp":true}
+  - {"name":"🇨🇳 台湾 01","type":"ss","server":"42.157.129.206","port":10708,"cipher":"aes-256-gcm","password":"005825c6-66e7-4782-828b-7732e619f8c5","udp":true}
+  - {"name":"🇨🇳 台湾 02","type":"ss","server":"42.157.129.206","port":10711,"cipher":"aes-256-gcm","password":"005825c6-66e7-4782-828b-7732e619f8c5","udp":true}
+  - {"name":"🇨🇳 台湾 03","type":"ss","server":"42.157.129.206","port":10702,"cipher":"aes-256-gcm","password":"005825c6-66e7-4782-828b-7732e619f8c5","udp":true}
+  - {"name":"🇸🇬 新加坡 01","type":"ss","server":"42.157.129.206","port":10706,"cipher":"aes-256-gcm","password":"005825c6-66e7-4782-828b-7732e619f8c5","udp":true}
+  - {"name":"🇸🇬 新加坡 02","type":"ss","server":"42.157.129.206","port":10707,"cipher":"aes-256-gcm","password":"005825c6-66e7-4782-828b-7732e619f8c5","udp":true}
+  - {"name":"🇸🇬 新加坡 03","type":"ss","server":"42.157.129.206","port":10709,"cipher":"aes-256-gcm","password":"005825c6-66e7-4782-828b-7732e619f8c5","udp":true}
+  - {"name":"🇯🇵 日本 01","type":"ss","server":"erfwe.hotssid.com","port":10709,"cipher":"aes-256-gcm","password":"005825c6-66e7-4782-828b-7732e619f8c5","udp":true}
+  - {"name":"🇯🇵 日本 02","type":"ss","server":"erfwe.hotssid.com","port":10703,"cipher":"aes-256-gcm","password":"005825c6-66e7-4782-828b-7732e619f8c5","udp":true}
+  - {"name":"🇯🇵 日本 03","type":"ss","server":"erfwe.hotssid.com","port":10711,"cipher":"aes-256-gcm","password":"005825c6-66e7-4782-828b-7732e619f8c5","udp":true}
+  - {"name":"🇺🇸 美国 01","type":"ss","server":"erfwe.hotssid.com","port":10704,"cipher":"aes-256-gcm","password":"005825c6-66e7-4782-828b-7732e619f8c5","udp":true}
+  - {"name":"🇺🇸 美国 02","type":"ss","server":"erfwe.hotssid.com","port":10705,"cipher":"aes-256-gcm","password":"005825c6-66e7-4782-828b-7732e619f8c5","udp":true}
+  - {"name":"🇺🇸 美国 03","type":"ss","server":"erfwe.hotssid.com","port":10706,"cipher":"aes-256-gcm","password":"005825c6-66e7-4782-828b-7732e619f8c5","udp":true}
