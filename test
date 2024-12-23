@@ -1,16 +1,17 @@
 proxies:
-  - {"name":"流量 146.9 MB / 60.0 GB | 2025/3/22","type":"ss","server":"zf.xn--pssq1dd7ox23b.com","port":22201,"cipher":"aes-256-gcm","password":"99c3346f-11e5-400b-9b12-3ef0da41760b","udp":true}
-  - {"name":"剩余流量：59.86 GB","type":"ss","server":"guangang.xn--pssq1dd7ox23b.com","port":22001,"cipher":"aes-256-gcm","password":"99c3346f-11e5-400b-9b12-3ef0da41760b","udp":true}
-  - {"name":"距离下次重置剩余：30 天","type":"ss","server":"guangang.xn--pssq1dd7ox23b.com","port":22001,"cipher":"aes-256-gcm","password":"99c3346f-11e5-400b-9b12-3ef0da41760b","udp":true}
-  - {"name":"套餐到期：2025-03-22","type":"ss","server":"guangang.xn--pssq1dd7ox23b.com","port":22001,"cipher":"aes-256-gcm","password":"99c3346f-11e5-400b-9b12-3ef0da41760b","udp":true}
-  - {"name":"[AI] 🇭🇰Hongkong 01 IEPL 1.00x","type":"ss","server":"guangang.xn--pssq1dd7ox23b.com","port":22001,"cipher":"aes-256-gcm","password":"99c3346f-11e5-400b-9b12-3ef0da41760b","udp":true}
-  - {"name":"[AI] 🇭🇰Hongkong 02 IEPL 1.00x","type":"ss","server":"guangang.xn--pssq1dd7ox23b.com","port":22002,"cipher":"aes-256-gcm","password":"99c3346f-11e5-400b-9b12-3ef0da41760b","udp":true}
-  - {"name":"🇯🇵Japan 01 IEPL 1.00x","type":"ss","server":"guangang.xn--pssq1dd7ox23b.com","port":22003,"cipher":"aes-256-gcm","password":"99c3346f-11e5-400b-9b12-3ef0da41760b","udp":true}
-  - {"name":"🇯🇵Japan 02 IEPL 1.00x","type":"ss","server":"guangang.xn--pssq1dd7ox23b.com","port":22004,"cipher":"aes-256-gcm","password":"99c3346f-11e5-400b-9b12-3ef0da41760b","udp":true}
-  - {"name":"🇨🇳Taiwan 01 IEPL 1.00x","type":"ss","server":"guangang.xn--pssq1dd7ox23b.com","port":22005,"cipher":"aes-256-gcm","password":"99c3346f-11e5-400b-9b12-3ef0da41760b","udp":true}
-  - {"name":"🇨🇳Taiwan 02 IEPL 1.00x","type":"ss","server":"guangang.xn--pssq1dd7ox23b.com","port":22006,"cipher":"aes-256-gcm","password":"99c3346f-11e5-400b-9b12-3ef0da41760b","udp":true}
-  - {"name":"🇸🇬Singapore 01 IEPL 1.00x","type":"ss","server":"guangang.xn--pssq1dd7ox23b.com","port":22007,"cipher":"aes-256-gcm","password":"99c3346f-11e5-400b-9b12-3ef0da41760b","udp":true}
-  - {"name":"🇸🇬Singapore 02 IEPL 1.00x","type":"ss","server":"guangang.xn--pssq1dd7ox23b.com","port":22008,"cipher":"aes-256-gcm","password":"99c3346f-11e5-400b-9b12-3ef0da41760b","udp":true}
-  - {"name":"🇺🇸United States 01 IEPL 1.00x","type":"ss","server":"guangang.xn--pssq1dd7ox23b.com","port":22009,"cipher":"aes-256-gcm","password":"99c3346f-11e5-400b-9b12-3ef0da41760b","udp":true}
-  - {"name":"🇺🇸United States 02 IEPL 1.00x","type":"ss","server":"guangang.xn--pssq1dd7ox23b.com","port":22010,"cipher":"aes-256-gcm","password":"99c3346f-11e5-400b-9b12-3ef0da41760b","udp":true}
-  - {"name":"[AI] 🇭🇰Hongkong 01 0.2x","type":"ss","server":"zf.xn--pssq1dd7ox23b.com","port":22201,"cipher":"aes-256-gcm","password":"99c3346f-11e5-400b-9b12-3ef0da41760b","udp":true}
+  - {"name":"流量 9.1 GB / 100.0 GB | 2025/1/20","type":"ss","server":"erfwe.hotssid.com","port":10706,"cipher":"aes-256-gcm","password":"005825c6-66e7-4782-828b-7732e619f8c5","udp":true}
+  - {"name":"🇭🇰 香港 01","type":"ss","server":"42.157.129.206","port":10700,"cipher":"aes-256-gcm","password":"005825c6-66e7-4782-828b-7732e619f8c5","udp":true}
+  - {"name":"🇭🇰 香港 02","type":"ss","server":"42.157.129.206","port":10701,"cipher":"aes-256-gcm","password":"005825c6-66e7-4782-828b-7732e619f8c5","udp":true}
+  - {"name":"🇭🇰 香港 03","type":"ss","server":"42.157.129.206","port":10710,"cipher":"aes-256-gcm","password":"005825c6-66e7-4782-828b-7732e619f8c5","udp":true}
+  - {"name":"🇨🇳 台湾 01","type":"ss","server":"42.157.129.206","port":10708,"cipher":"aes-256-gcm","password":"005825c6-66e7-4782-828b-7732e619f8c5","udp":true}
+  - {"name":"🇨🇳 台湾 02","type":"ss","server":"42.157.129.206","port":10711,"cipher":"aes-256-gcm","password":"005825c6-66e7-4782-828b-7732e619f8c5","udp":true}
+  - {"name":"🇨🇳 台湾 03","type":"ss","server":"42.157.129.206","port":10702,"cipher":"aes-256-gcm","password":"005825c6-66e7-4782-828b-7732e619f8c5","udp":true}
+  - {"name":"🇸🇬 新加坡 01","type":"ss","server":"42.157.129.206","port":10706,"cipher":"aes-256-gcm","password":"005825c6-66e7-4782-828b-7732e619f8c5","udp":true}
+  - {"name":"🇸🇬 新加坡 02","type":"ss","server":"42.157.129.206","port":10707,"cipher":"aes-256-gcm","password":"005825c6-66e7-4782-828b-7732e619f8c5","udp":true}
+  - {"name":"🇸🇬 新加坡 03","type":"ss","server":"42.157.129.206","port":10709,"cipher":"aes-256-gcm","password":"005825c6-66e7-4782-828b-7732e619f8c5","udp":true}
+  - {"name":"🇯🇵 日本 01","type":"ss","server":"erfwe.hotssid.com","port":10709,"cipher":"aes-256-gcm","password":"005825c6-66e7-4782-828b-7732e619f8c5","udp":true}
+  - {"name":"🇯🇵 日本 02","type":"ss","server":"erfwe.hotssid.com","port":10703,"cipher":"aes-256-gcm","password":"005825c6-66e7-4782-828b-7732e619f8c5","udp":true}
+  - {"name":"🇯🇵 日本 03","type":"ss","server":"erfwe.hotssid.com","port":10711,"cipher":"aes-256-gcm","password":"005825c6-66e7-4782-828b-7732e619f8c5","udp":true}
+  - {"name":"🇺🇸 美国 01","type":"ss","server":"erfwe.hotssid.com","port":10704,"cipher":"aes-256-gcm","password":"005825c6-66e7-4782-828b-7732e619f8c5","udp":true}
+  - {"name":"🇺🇸 美国 02","type":"ss","server":"erfwe.hotssid.com","port":10705,"cipher":"aes-256-gcm","password":"005825c6-66e7-4782-828b-7732e619f8c5","udp":true}
+  - {"name":"🇺🇸 美国 03","type":"ss","server":"erfwe.hotssid.com","port":10706,"cipher":"aes-256-gcm","password":"005825c6-66e7-4782-828b-7732e619f8c5","udp":true}
