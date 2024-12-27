@@ -1,1 +1,21 @@
+providers:
+  - provider: gemini
+    base_url: https://generativelanguage.googleapis.com/v1beta # base_url supports v1beta/v1, only for Gemini model use, required
+    api: # Supports multiple API Keys, multiple keys automatically enable polling load balancing, at least one key, required
+      - AIzaSyC_pNOSMZ3B-muNgyIv6T2G2NB7Ro6fOJE
+      - AIzaSyDUiJJHPLz2YTy9jKEU6jcfFK4XHW62f5M
+      - AIzaSyB0jXyPmlHPFvyowdPM_6CU3uLKP5O47P4
+      - AIzaSyCc4XDRARKoaKL_tZKGKiw9D3hudVQC7Sg
+      - AIzaSyAnOE-PIswyfw__M_M3mzHcB_YPM57t1pk
+      - AIzaSyA2uzGzZkoXuj6cRR902CZlJeZnG4jku7I
+      - AIzaSyCVwaJZ2OYyya_tv0QnKMTMCVXWBVCytTE
+      - AIzaSyDwbJVA-BWDmmiWOVYVlwsbH1F38S_J2NQ
+      - AIzaSyCM4tHCq_oouF-OyAaZa8t2pVn6rKmmjNM
+      - AIzaSyAgYCt-7f-K5fuapiFcDPXRfYDSZaM9XJ0
+    model:
+      - gemini-2.0-flash-thinking-exp-1219
+      - gemini-exp-1206
+    tools: true
 
+api_keys:
+  - api: mortonujan-dionysus-11251235
